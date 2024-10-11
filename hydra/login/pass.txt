@@ -1,0 +1,6 @@
+admin
+1
+12345678
+123456
+ubuntu
+rsyslog
